@@ -63,7 +63,7 @@
         <textarea
             on:input={handleTextareaInput}
             name="message"
-            placeholder="Hello! I just wanted to let you know that I am very cute and..."
+            placeholder="who's in paris?"
             required
             minlength="10"
             maxlength="10000"
